@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋
+## I'm Mathias, a 20 year old developer who works on anything that comes to mind!
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=113472525&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=113472525&redirect=true)
 
